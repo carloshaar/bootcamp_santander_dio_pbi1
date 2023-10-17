@@ -1,17 +1,24 @@
-[![author](https://img.shields.io/badge/author-CarlosHaar-green.svg)](https://www.linkedin.com/in/carloshaar/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg?style=flat)](https://github.com/carloshaar/portfolio/issues)
+[![author](https://img.shields.io/badge/author-carloshaar-silver.svg)](https://www.linkedin.com/in/carloshaar) 
+[![](https://img.shields.io/badge/MS-PowerBI-gold.svg)](https://powerbi.microsoft.com/pt-br/) 
+[![](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![](https://img.shields.io/badge/MS-Excel-darkgreen.svg)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![](https://img.shields.io/badge/Google-Colab-orange.svg)](https://colab.research.google.com) 
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carloshaar/)
 
-## Projeto de Análise de Dados do portal Inside Airbnb, para o curso Data Science na Prática - sigmoidal
 
-No curso foi apresentada análise dos dados do Rio de Janeiro, mas para o projeto deveria ser escolhido outro local, minha opção foi por Lisboa, já que por coincidência, dias antes havíamos comentando no trabalho, sobre o custo de vida em Portugal, oportunidades de carreira entre outros detalhes.
+## Dashboard PowerBI, para o Becas Santander 2023 - Bootcamp Ciência de Dados com Python - dio.me
 
-Os dados disponibilizados foram baixados do portal [Inside Aribnb](http://insideairbnb.com/get-the-data), e optei por copiar o arquivo e deixar a cópia no github, pois eles periodicamente atualizam os dados.
+Para esse Dashboard foram utilizados a base de dados de exemplos do PowerBi, Financial_Samples.
 
-Uma questão interessante, para quem está iniciando em Ciência de Dados, é que os dados são capturados utilizando web scraping, depois tratados e disponibilizados em csv, um mais completo, sem tratamento e o que eles chamam de pronto para análise, que foi o que optei.
+Background criado no Canva
+https://www.canva.com/design/DAFxVVE8D1w/EnzGKEXKeg5N2T3PawMqzg/edit?utm_content=DAFxVVE8D1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Caso uma pessoa que não tem interesse em estudar ciência de dados, mas que goste de conhecer mais detalhes de lugares onde exista Airbnb, ou mesmo que tenha conhecimento mas que não queira fazer as análises, é possível acessar o link (http://insideairbnb.com/explore) que lá já existem várias análises feitas de forma dinâmica que ainda podem ser otimizadas.
+Background criado no Figma
+https://www.figma.com/file/JcpOxtnhz3fljluZ76XXsN/Bootcamp_Santander_Dio_PowerBI_bg?type=design&mode=design&t=34PDMpSbhXrJ2qQN-1
 
-Os dados de Lisboa, estavam bem consistentes, poucos registros nulos e mesmo os nulos não interferiram em nenhuma análise e não haviam outliers.
-
+Link Público do Relatório
+https://app.powerbi.com/view?r=eyJrIjoiZTI5YTNhNDUtY2U4Yi00YTg4LWI1ZDctMjQ3NGYxMWMyMmNmIiwidCI6ImU1ZmQ3MjcyLTEzNTYtNDQ3NC1iOThlLWViODEwMGY2YzFiYSJ9&pageName=ReportSection0b517ca9c9fd2fec3392
 
 
 **Links para me acharem:**
