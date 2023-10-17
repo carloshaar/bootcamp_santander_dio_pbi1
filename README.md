@@ -24,7 +24,7 @@ https://www.figma.com/file/JcpOxtnhz3fljluZ76XXsN/Bootcamp_Santander_Dio_PowerBI
 https://app.powerbi.com/view?r=eyJrIjoiZTI5YTNhNDUtY2U4Yi00YTg4LWI1ZDctMjQ3NGYxMWMyMmNmIiwidCI6ImU1ZmQ3MjcyLTEzNTYtNDQ3NC1iOThlLWViODEwMGY2YzFiYSJ9&pageName=ReportSection0b517ca9c9fd2fec3392
 
 
-DIsponibilizei também aqui no GitHub uma cópia do projeto em formato .pbix e em formato .pdf, exportado do meu Workspace de publicação.
+DIsponibilizei também aqui no GitHub uma cópia do projeto em formato .pbix e em formato .pdf, exportado do meu Workspace de publicação e o background das páginas em png.
 
 **Links das minhas redes:**
 
