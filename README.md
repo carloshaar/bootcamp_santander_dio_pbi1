@@ -15,13 +15,18 @@ Para esse Dashboard foram utilizados a base de dados de exemplos do PowerBi, Fin
 
 
 
-Background criado no Figma
+**Background criado no Figma**
+
 https://www.figma.com/file/JcpOxtnhz3fljluZ76XXsN/Bootcamp_Santander_Dio_PowerBI_bg?type=design&mode=design&t=34PDMpSbhXrJ2qQN-1
 
-Link Público do Relatório
+**Link Público do Relatório**
+
 https://app.powerbi.com/view?r=eyJrIjoiZTI5YTNhNDUtY2U4Yi00YTg4LWI1ZDctMjQ3NGYxMWMyMmNmIiwidCI6ImU1ZmQ3MjcyLTEzNTYtNDQ3NC1iOThlLWViODEwMGY2YzFiYSJ9&pageName=ReportSection0b517ca9c9fd2fec3392
 
+
 Dashboard em formato .pbix
+
+
 
 Dashboard em formato .pdf
 
