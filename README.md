@@ -7,12 +7,13 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carloshaar/)
 
 
-## Dashboard PowerBI, para o Becas Santander 2023 - Bootcamp Ciência de Dados com Python - dio.me
+## Projeto Dashboard PowerBI, para o programa Becas Santander 2023
 
-Para esse Dashboard foram utilizados a base de dados de exemplos do PowerBi, Financial_Samples.
+## Bootcamp Ciência de Dados com Python - dio.me
 
-Background criado no Canva
-https://www.canva.com/design/DAFxVVE8D1w/EnzGKEXKeg5N2T3PawMqzg/edit?utm_content=DAFxVVE8D1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Para esse Dashboard foram utilizados a base de dados de exemplos do PowerBi, Financial_Samples, disponibilizado também no GitHub da Teacher Juliana Mascarenhas
+
+
 
 Background criado no Figma
 https://www.figma.com/file/JcpOxtnhz3fljluZ76XXsN/Bootcamp_Santander_Dio_PowerBI_bg?type=design&mode=design&t=34PDMpSbhXrJ2qQN-1
@@ -20,7 +21,10 @@ https://www.figma.com/file/JcpOxtnhz3fljluZ76XXsN/Bootcamp_Santander_Dio_PowerBI
 Link Público do Relatório
 https://app.powerbi.com/view?r=eyJrIjoiZTI5YTNhNDUtY2U4Yi00YTg4LWI1ZDctMjQ3NGYxMWMyMmNmIiwidCI6ImU1ZmQ3MjcyLTEzNTYtNDQ3NC1iOThlLWViODEwMGY2YzFiYSJ9&pageName=ReportSection0b517ca9c9fd2fec3392
 
+Dashboard em formato .pbix
 
-**Links para me acharem:**
+Dashboard em formato .pdf
+
+**Links das minhas redes:**
 
 * [LinkedIn](https://www.linkedin.com/in/carloshaar/)
