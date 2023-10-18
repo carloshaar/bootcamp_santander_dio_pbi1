@@ -29,3 +29,14 @@ DIsponibilizei também aqui no GitHub uma cópia do projeto em formato .pbix e e
 **Links das minhas redes:**
 
 * [LinkedIn](https://www.linkedin.com/in/carloshaar/)
+
+## Outros Projetos Meus:
+# Python
+https://github.com/carloshaar/inside_airbnb_lisbon
+
+# PowerBI
+https://github.com/carloshaar/bootcamp_santander_dio_pbi1
+
+https://github.com/carloshaar/dashboard_logistica_datab
+
+https://github.com/carloshaar/dashboard_comercial_datab
